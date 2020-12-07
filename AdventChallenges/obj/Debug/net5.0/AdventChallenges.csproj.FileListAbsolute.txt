@@ -1,0 +1,12 @@
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\bin\Debug\net5.0\AdventChallenges.deps.json
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\bin\Debug\net5.0\AdventChallenges.dll
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\bin\Debug\net5.0\ref\AdventChallenges.dll
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\bin\Debug\net5.0\AdventChallenges.pdb
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\obj\Debug\net5.0\AdventChallenges.csprojAssemblyReference.cache
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\obj\Debug\net5.0\AdventChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\obj\Debug\net5.0\AdventChallenges.AssemblyInfoInputs.cache
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\obj\Debug\net5.0\AdventChallenges.AssemblyInfo.cs
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\obj\Debug\net5.0\AdventChallenges.csproj.CoreCompileInputs.cache
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\obj\Debug\net5.0\AdventChallenges.dll
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\obj\Debug\net5.0\ref\AdventChallenges.dll
+C:\Users\joeco\Desktop\vscode\unit-testing-using-dotnet-test\AdventChallenges\obj\Debug\net5.0\AdventChallenges.pdb
