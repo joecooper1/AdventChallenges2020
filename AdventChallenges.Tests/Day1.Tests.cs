@@ -1,5 +1,6 @@
 using Xunit;
 using Advent.Challenges;
+using System;
 
 namespace Prime.UnitTests.Services
 {
@@ -15,9 +16,19 @@ namespace Prime.UnitTests.Services
         [Fact]
         public void Day1_SumTo2020()
         {
-            int result = _day1.SumTo2020(1);
+            string input = "1721 979 366 299 675 1456";
+            int result = _day1.SumTo2020(input);
 
-            Assert.True(result == 1, "Result should be 1");
+            Assert.Equal(514579, result);
+        }
+
+        [Fact]
+        public void Day1_Sum3To2020()
+        {
+            string input = "1721 979 366 299 675 1456";
+            int result = _day1.Sum3To2020(input);
+
+            Assert.Equal(241861950, result);
         }
     }
 }
